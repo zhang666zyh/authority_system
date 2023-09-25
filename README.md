@@ -1,5 +1,3 @@
-https://www.bilibili.com/video/BV1dt4y1x7rT/?p=4&spm_id_from=pageDriver&vd_source=d654eb5e9948ab0888203d1b66c15364
-
 # 创建数据库和数据表
 
 ```sql
